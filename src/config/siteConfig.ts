@@ -42,10 +42,10 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "huanglaoji",
 
 	// 站点副标题
-	subtitle: "老己",
+	subtitle: "blog",
 
 	// 站点 URL
 	site_url: "http://blog.huanglaoji.de5.net/",
