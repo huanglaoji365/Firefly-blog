@@ -7,7 +7,7 @@ tags: [Tailscale, Windows, HTTP 代理, 网络]
 category: 技术教程
 draft: false
 pinned: false
-author: huanglaoji365
+author: huanglaoji
 comment: true
 slug: tailscale-company-http-proxy
 ---
